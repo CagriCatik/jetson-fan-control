@@ -1,7 +1,7 @@
 # Jetson Fan Control
 
 <p align="center">
-  <img src="image/README/jetson-nano.png" alt="1711741488102" style="max-width:20%; height:auto;">
+  <img src="image/jetson-nano.png" alt="1711741488102" style="max-width:20%; height:auto;">
 </p>
 
 - Jetson Fan Control is a tool designed to manage fan speeds for the Nvidia Jetson Nano, ensuring optimal thermal performance while maintaining a quiet operation.
