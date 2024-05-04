@@ -1,5 +1,5 @@
 [Unit]
-Description=Automagic fan control
+Description=AutoMagic Fan Control
 
 [Service]
 Type=simple
